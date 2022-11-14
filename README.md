@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Erick
+Hi 👋 My name is Erick
 =============================================================================================================================
 
-Data Scientist with experience in Digitalizing Fish Beauvoir and Automotive Industry.
+Data Scientist with experience in Digitalizing Fish Behavior and Automotive Industry.
 -------------------------------------------------------------------------------------
 
-Hello there, I am Erick Cantu. I am a data scientist. For the last 6 years I worked at the Thuenen Institue for Fisheries Ecology digitalizing rainbow trout behavior. Previously I worked at Delphi Automotive Thermal Systems as a Global Manufacturing Engineer implementing lean manufacturing practices in the manufacture of new automobile, residential and commercial components.
+Hello there, I am Erick Cantu. I am a data scientist. For the last 6 years I worked at the Thuenen Institue for Fisheries Ecology digitalizing rainbow trout behavior. Previously I worked at Delphi Automotive Thermal Systems as a Global Manufacturing Engineer implementing lean manufacturing practices in the manufacture of new automobile, residential and commercial components. 
 
 * 🌍  I'm based in Bremerhaven, Germany
 * 🖥️  See my portfolio at [www.erickcantu.com](http://www.erickcantu.com)
@@ -37,9 +37,10 @@ src="https://img.shields.io/github/followers/erickcantu?logo=github&style=for-th
 
 <a href="http://www.github.com/erickcantu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erickcantu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="https://github.com/erickcantu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickcantu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <a href="http://www.github.com/erickcantu"><img src="https://activity-graph.herokuapp.com/graph?username=erickcantu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/erickcantu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickcantu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
