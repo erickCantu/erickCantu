@@ -10,7 +10,7 @@ Hello there, I am Erick Cantu. I am a data scientist. For the last 6 years I wor
 * 🖥️  See my portfolio at [www.erickcantu.com](http://www.erickcantu.com)
 * ✉️  You can contact me at [erick@erickcantu.com](mailto:erick@erickcantu.com)
 * 🧠  I'm learning SQL, Docker
-* ⚡  I'm currently automating my home with HomeAssistant, Zigbee, MQTT, NodeRed, InfluxDB, Graphana, ESPHome, DuplicatyTasmota
+* ⚡  I'm currently automating my home with HomeAssistant, Zigbee, MQTT, NodeRed, InfluxDB, Graphana, ESPHome, Duplicaty and Tasmota
 
 <a href="https://www.github.com/erickcantu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/erickcantu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
