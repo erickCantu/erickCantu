@@ -21,6 +21,7 @@ src="https://img.shields.io/github/followers/erickcantu?logo=github&style=for-th
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/main/r-programming-language-icon.svg" width="36" height="36" alt="R-Language" /></a>
+<a href="https://yaml.org" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/main/yaml-icon.svg" width="36" height="36" alt="YAML " /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.influxdata.com/products/influxdb-overview/" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/main/influxdb.svg" width="36" height="36" alt="InfluxDB" /></a>
