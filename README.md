@@ -9,7 +9,7 @@ Hello there, I am Erick Cantu. I am a data scientist. For the last 6 years I wor
 * 🌍  I'm based in Bremerhaven, Germany
 * 🖥️  See my portfolio at [www.erickcantu.com](http://www.erickcantu.com)
 * ✉️  You can contact me at [erick@erickcantu.com](mailto:erick@erickcantu.com)
-* 🧠  I'm learning SQL, Docker
+* 🧠  I'm learning Influx, Docker
 * ⚡  I'm currently automating my home with HomeAssistant, Zigbee, MQTT, NodeRed, InfluxDB, Graphana, ESPHome, Duplicaty and Tasmota
 
 <a href="https://www.github.com/erickcantu" target="_blank" rel="noreferrer"><img
@@ -20,8 +20,12 @@ src="https://img.shields.io/github/followers/erickcantu?logo=github&style=for-th
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/main/r-programming-language-icon.svg" width="36" height="36" alt="R-Language" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.influxdata.com/products/influxdb-overview/" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/main/influxdb.svg" width="36" height="36" alt="InfluxDB" /></a>
+<a href="https://nodered.org" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/main/node-red-icon.svg" width="36" height="36" alt="Node-Red" /></a>
+<a href="https://grafana.com/grafana/" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/main/grafana-icon.svg" width="36" height="36" alt="Grafana" /></a>
 </p>
 
 
