@@ -4,7 +4,15 @@ Hi 👋 My name is Erick
 Data Scientist with experience in Digitalizing Fish Behavior and Automotive Industry.
 -------------------------------------------------------------------------------------
 
-Hello there, I am Erick Cantu. I am a data scientist. For the last 6 years I worked at the Thuenen Institue for Fisheries Ecology digitalizing rainbow trout behavior. Previously I worked at Delphi Automotive Thermal Systems as a Global Manufacturing Engineer implementing lean manufacturing practices in the manufacture of new automobile, residential and commercial components. 
+Hello!
+
+I'm Erick Cantu, a data scientist with a passion for driving insights from complex datasets. With experience in both scientific research and industrial engineering, I bring a unique perspective to the field of data science.
+
+In my previous role as a digitalization specialist, I worked on projects that involved analyzing and interpreting the behavior of rainbow trout, leveraging statistics algorithms to gain a deeper understanding of their habits and environments.
+
+Before transitioning into data science, I served as a Global Manufacturing Engineer, where I implemented lean manufacturing practices to optimize production processes for new automobile, residential, and commercial components. This experience taught me the importance of efficiency, quality, and collaboration in achieving business goals.
+
+Feel free to explore my GitHub profile to learn more about my projects and contributions!
 
 * 🌍  I'm based in Wolfsburg, Germany
 * 🖥️  See my portfolio at [www.erickcantu.com](http://www.erickcantu.com)
@@ -75,4 +83,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--->
+
