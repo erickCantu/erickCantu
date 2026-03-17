@@ -61,7 +61,7 @@ src="https://img.shields.io/github/followers/erickcantu?logo=github&style=for-th
 <a href="http://www.github.com/erickcantu"><img src="https://github-readme-activity-graph.vercel.app/graph?username=erickcantu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 ### 42 Badge
-[![ecantu-p's 42 stats](https://badge.mediaplus.ma/darkblue/ecantu-p)](https://github.com/oakoudad/badge42)
+[![ecantu-p's 42 stats](https://badge.mediaplus.ma/darkblue/ecantu-p?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### Top Repositories
 
