@@ -17,7 +17,7 @@ Feel free to explore my GitHub profile to learn more about my projects and contr
 * 🌍  I'm based in Wolfsburg, Germany
 * 🖥️  See my portfolio at [www.erickcantu.com](http://www.erickcantu.com)
 * ✉️  You can contact me at [erick@erickcantu.com](mailto:erick@erickcantu.com)
-* 🧠 Currently learning C and mastering Python at <a href="https://42wolfsburg.de" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/dev/assets/icons/42wob-icon.svg" width="36" height="36" alt="C" /></a>
+* 🧠 Currently learning C and mastering Python at  <a href="https://42wolfsburg.de" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/dev/assets/icons/42wob-icon.svg" height="36" alt="C" /></a>
 * ⚡  I'm currently automating my home with HomeAssistant, Zigbee, MQTT, NodeRed, InfluxDB, Graphana, ESPHome, Duplicaty and Tasmota
 
 <a href="https://www.github.com/erickcantu" target="_blank" rel="noreferrer"><img
