@@ -17,7 +17,7 @@ Feel free to explore my GitHub profile to learn more about my projects and contr
 * 🌍  I'm based in Wolfsburg, Germany
 * 🖥️  See my portfolio at [www.erickcantu.com](http://www.erickcantu.com)
 * ✉️  You can contact me at [erick@erickcantu.com](mailto:erick@erickcantu.com)
-* 🧠 Currently learning C and mastering Python at  <a href="https://42wolfsburg.de" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/dev/assets/icons/42wob-icon.svg" height="36" alt="C" /></a>
+* 🧠 Currently learning C and mastering Python at  <a href="https://42wolfsburg.de" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/erickCantu/erickCantu/refs/heads/main/assets/icons/42wob-icon.svg" height="36" alt="C" /></a>
 * ⚡  I'm currently automating my home with HomeAssistant, Zigbee, MQTT, NodeRed, InfluxDB, Graphana, ESPHome, Duplicaty and Tasmota
 
 <a href="https://www.github.com/erickcantu" target="_blank" rel="noreferrer"><img
@@ -27,16 +27,16 @@ src="https://img.shields.io/github/followers/erickcantu?logo=github&style=for-th
 
 
 <p align="left">
-<a href="https://www.c-language.org" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/dev/assets/icons/c-icon.svg" width="36" height="36" alt="C" /></a>
+<a href="https://www.c-language.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/erickCantu/erickCantu/refs/heads/main/assets/icons/c-icon.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/dev/assets/icons/r-programming-language-icon.svg" width="36" height="36" alt="R-Language" /></a>
-<a href="https://yaml.org" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/dev/assets/icons/yaml-icon.svg" width="36" height="36" alt="YAML " /></a>
+<a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/erickCantu/erickCantu/refs/heads/main/assets/icons/r-programming-language-icon.svg" width="36" height="36" alt="R-Language" /></a>
+<a href="https://yaml.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/erickCantu/erickCantu/refs/heads/main/assets/icons/yaml-icon.svg" width="36" height="36" alt="YAML " /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.influxdata.com/products/influxdb-overview/" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/dev/assets/icons/influxdb.svg" width="36" height="36" alt="InfluxDB" /></a>
-<a href="https://nodered.org" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/dev/assets/icons/node-red-icon.svg" width="36" height="36" alt="Node-Red" /></a>
-<a href="https://grafana.com/grafana/" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/dev/assets/icons/grafana-icon.svg" width="36" height="36" alt="Grafana" /></a>
-<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/dev/assets/icons/docker-icon.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.influxdata.com/products/influxdb-overview/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/erickCantu/erickCantu/refs/heads/main/assets/icons/influxdb.svg" width="36" height="36" alt="InfluxDB" /></a>
+<a href="https://nodered.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/erickCantu/erickCantu/refs/heads/main/assets/icons/node-red-icon.svg" width="36" height="36" alt="Node-Red" /></a>
+<a href="https://grafana.com/grafana/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/erickCantu/erickCantu/refs/heads/main/assets/icons/grafana-icon.svg" width="36" height="36" alt="Grafana" /></a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/erickCantu/erickCantu/refs/heads/main/assets/icons/docker-icon.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
 
@@ -44,7 +44,7 @@ src="https://img.shields.io/github/followers/erickcantu?logo=github&style=for-th
 
 <p align="left"> 
 <a href="https://www.github.com/erickcantu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a align="left"> <a href="https://keybase.io/ecantu" target="_blank" rel="noreferrer"><img src="https://github.com/erickCantu/erickCantu/blob/main/keybase-official.svg" width="32" height="32" /></a> 
+<a align="left"> <a href="https://keybase.io/ecantu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/erickCantu/erickCantu/refs/heads/main/assets/icons/keybase-official.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/erickcantu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
