@@ -6,10 +6,10 @@ Data Scientist with experience in Digitalizing Fish Behavior and Automotive Indu
 
 Hello there, I am Erick Cantu. I am a data scientist. For the last 6 years I worked at the Thuenen Institue for Fisheries Ecology digitalizing rainbow trout behavior. Previously I worked at Delphi Automotive Thermal Systems as a Global Manufacturing Engineer implementing lean manufacturing practices in the manufacture of new automobile, residential and commercial components. 
 
-* 🌍  I'm based in Bremerhaven, Germany
+* 🌍  I'm based in Wolfsburg, Germany
 * 🖥️  See my portfolio at [www.erickcantu.com](http://www.erickcantu.com)
 * ✉️  You can contact me at [erick@erickcantu.com](mailto:erick@erickcantu.com)
-* 🧠  I'm learning Influx, Docker
+* 🧠 Currently learning C and mastering Python
 * ⚡  I'm currently automating my home with HomeAssistant, Zigbee, MQTT, NodeRed, InfluxDB, Graphana, ESPHome, Duplicaty and Tasmota
 
 <a href="https://www.github.com/erickcantu" target="_blank" rel="noreferrer"><img
@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/erickcantu?logo=github&style=for-th
 <a href="https://www.linkedin.com/in/erickcantu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
+<!-- ### Badges
 
 <b>My GitHub Stats</b>
 
@@ -49,7 +49,7 @@ src="https://img.shields.io/github/followers/erickcantu?logo=github&style=for-th
 
 <a href="https://github.com/erickcantu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickcantu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/erickcantu"><img src="https://github-readme-activity-graph.vercel.app/graph?username=erickcantu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/erickcantu"><img src="https://github-readme-activity-graph.vercel.app/graph?username=erickcantu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 
 <b>Top Repositories</b>
